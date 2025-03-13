@@ -1,4 +1,4 @@
-# Ollama LLM Benchmark
+# Ollama LLM Model Evaluation & Benchmarking Tool
 
 A tool for benchmarking LLM models available in Ollama, comparing their performance across different tasks.
 
